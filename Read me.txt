@@ -2,8 +2,8 @@ execute 'streamlit run streamlit_app.py' in terminal
 
 Team Members:
 
-Kelvin Simon		            	         C0866577
-Amal Vandananikkal Thankachan		       C0863255
-Henry Jones Inbaraj		                 C0863081
+Kelvin Simon		            	   C0866577
+Amal Vandananikkal Thankachan		   C0863255
+Henry Jones Inbaraj		               C0863081
 Meenakshi                              C0864515
     
