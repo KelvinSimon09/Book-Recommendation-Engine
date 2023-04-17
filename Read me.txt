@@ -1,0 +1,1 @@
+execute 'streamlit run streamlit_app.py' in terminal
